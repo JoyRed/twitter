@@ -3,6 +3,8 @@ body {
   font-family:'PT Mono', monospace;
   margin: 0% 0%;
   padding: 0%;
+  background: url(http://cdn.pcwallart.com/images/desktop-wallpaper-flowers-vintage-wallpaper-3.jpg);
+  background-size: cover;
 }
 
 header {
@@ -24,8 +26,6 @@ header img {
 }
 
 div {
-  background-image: url("views/background.jpg");
-  background-color: #fff;
   display: flex;
 }
 
